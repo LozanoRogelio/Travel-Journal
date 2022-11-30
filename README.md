@@ -1,4 +1,4 @@
-# coaea4f5c82bbaa750f83524c
+# Scrimba Solo Project
 
 Quick start:
 
