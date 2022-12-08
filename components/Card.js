@@ -8,7 +8,7 @@ export default function Card(props) {
                 <div className="coordinates">
                     <i className="fa-sharp fa-solid fa-location-dot icon"></i>
                     <h4>{props.location}</h4>
-                    <a href={props.googleMapsUrl}>View on Google Maps</a>
+                    <a href={props.googleMapsUrl}>View on Google MAPS</a>
                 </div>
                 <h1>{props.title}</h1>
                 <h6><strong>{props.startDate} - {props.endDate}</strong></h6>
